@@ -40,9 +40,6 @@
 [submodule "themes/simple-intro"]
 	path = themes/simple-intro
 	url = https://github.com/gangjun06/SimpleIntro
-[submodule "themes/academia"]
-	path = themes/academia
-	url = git@github.com:themefisher/academia-hugo.git
 [submodule "themes/persian"]
 	path = themes/persian
 	url = https://github.com/gethugothemes/persian-hugo
@@ -52,9 +49,6 @@
 [submodule "themes/alpha"]
 	path = themes/alpha
 	url = https://github.com/dewittn/hugo-html5up-alpha/
-[submodule "themes/somrat"]
-	path = themes/somrat
-	url = git@github.com:somratpro/somrat.git
 [submodule "themes/papermod"]
 	path = themes/papermod
 	url = https://github.com/adityatelange/hugo-PaperMod.git
